@@ -62,17 +62,20 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
-    font-weight: normal;
     padding-bottom: 10px;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #B4846C;
+    color: #66BFBF;
 }
 
 p {
     line-height: 2;
+}
+
+.hi {
+    font-weight: normal;
 }
 
 .intro {
